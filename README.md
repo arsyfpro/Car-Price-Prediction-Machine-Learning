@@ -13,6 +13,6 @@ Problem: Regression
 
 Final Model: CatBoost Regressor
 
-Link Repositori: <link menuju repositori ini>
+Link Repositori: https://github.com/arsyfpro/final-project-kelompok-07-aditya-bariq.git
 
 Link PPT: https://docs.google.com/presentation/d/1Wpyf5IE-iV0m7mKcAfUaKG2UsSBmSJ9H/edit?usp=sharing&ouid=104518791314594698403&rtpof=true&sd=true
