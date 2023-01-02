@@ -1,5 +1,5 @@
-# Final Project Kelompok 07
-Anggota Kelompok:
+# Car Price Prediction using Machine Learning
+Kontributor:
 - Mhd. Arsya Fikri
 - Rhisa Adika Putri
 
